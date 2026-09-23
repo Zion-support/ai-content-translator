@@ -1,15 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Content Translator
 
-**ai-content-translator** — multilingual content with context preservation. Part of the Zion Tech Group app network (630+ apps).
+Multilingual content with context preservation.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Business Tools & Calculators](https://github.com/Zion-support/zion-network/blob/main/network/business-tools-calculators.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [ai-localizer](https://github.com/Zion-support/ai-localizer) · [zion-ai-translation-hub](https://github.com/Zion-support/zion-ai-translation-hub) · [zion-ai-video-translator](https://github.com/Zion-support/zion-ai-video-translator) · [zion-ai-voice-translator](https://github.com/Zion-support/zion-ai-voice-translator) · [zion-multilingual-ai-checker](https://github.com/Zion-support/zion-multilingual-ai-checker)
 
-## Related apps
-- [zion-ai-translation-hub](https://github.com/Zion-support/zion-ai-translation-hub) — enterprise localization
-- [ai-localizer](https://github.com/Zion-support/ai-localizer) — continuous AI localization
-- [zion-ai-video-translator](https://github.com/Zion-support/zion-ai-video-translator) — AI dubbing & subtitles
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
